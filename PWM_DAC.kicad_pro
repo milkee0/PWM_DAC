@@ -650,7 +650,7 @@
         "uuid": "f2f64783-3dc6-46eb-a96d-e5bfedd35fa1"
       }
     ],
-    "used_designators": "#PWR1-3,#PWR13-18,C1-4,C6-9,CV_SWITCH1,R1-3,R5-6,RV5-6,U1-2,U6",
+    "used_designators": "#PWR1-3,#PWR13-19,C1-4,C6-9,CV_SWITCH1,R1-3,R5-6,RV5-6,U1-2,U6",
     "variants": []
   },
   "sheets": [
